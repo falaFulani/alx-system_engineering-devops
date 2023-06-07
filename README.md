@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-
+This is ALX shell navigation and bash
